@@ -1,7 +1,7 @@
 # Alexandre Schweig-Peters
-
-- 💻 Software Engineer @ Amazon Web Services Lambda
-- 💻 Formerly Software Engineer @ Amazon Dash Replenishment
+- 🚨 Actively looking for new opportunities
+- 💻 Former Software Engineer @ Amazon Web Services Lambda
+- 💻 Former Software Engineer @ Amazon Dash Replenishment
 - 🎓 2021 MEng Computer Science / Software Engineering Graduate @ University of Birmingham, UK
 - 🇫🇷 🇺🇸 Bilingual with dual citizenship
 
